@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davies;Felix;;;
+FN:Felix Davies
+ORG:National Federation of Fishermen's Organisations
+TITLE:Head of Public Affairs
+TEL;TYPE=CELL:+447877765800
+TEL;TYPE=WORK,VOICE:+441904635430
+EMAIL;TYPE=WORK:Felix@nffo.org.uk
+URL:https://www.nffo.org.uk/
+ADR;TYPE=WORK:;;30 Monkgate;York;;YO31 7PF;United Kingdom
+END:VCARD
